@@ -1,0 +1,14 @@
+{
+  "name": "maqebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maqe-bot.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
